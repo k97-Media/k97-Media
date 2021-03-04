@@ -1,5 +1,10 @@
 # K97 Media
 
+
+![Channel Banner](./2021-03-03.png "Channel Banner")
+
+
+
 K97 Media is a [Youtube channel](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) focused on Programming and Coding Tutorials and Tips.
 
 The tutorials are in **Kurdish** and **English** language.
