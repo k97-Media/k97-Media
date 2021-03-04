@@ -1,6 +1,8 @@
 # K97 Media
 
-K97 Media is a Youtube channel focused on Programming and Coding Tutorials and Tips.
+K97 Media is a [Youtube channel](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) focused on Programming and Coding Tutorials and Tips.
+
+
 
 Here all the Codes for the tutorials will be found.
 
